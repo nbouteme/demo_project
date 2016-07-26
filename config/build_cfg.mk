@@ -1,0 +1,9 @@
+NAME = demo
+TYPE = prog
+
+MODULES = src
+CFLAGS = -Wall -Wextra -Werror -g
+
+DEPS = libft xmlx
+
+OUTPUT = $(NAME)

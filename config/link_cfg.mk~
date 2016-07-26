@@ -1,0 +1,9 @@
+NAME = demo
+TYPE = prog
+
+CFLAGS = -Wall -Wextra -Werror -g
+
+DEPS = libft
+
+OUTPUT = $(NAME)
+
